@@ -52,6 +52,10 @@ p {
   padding: 30px 0 30px 0;
 }
 
+.mountain {
+  width: 1rem;
+}
+
 .skill-row {
   width: 50%;
   margin: 100px auto;
